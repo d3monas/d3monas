@@ -1,7 +1,7 @@
 
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hey!</h2>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey!</h2>
 
-<p align="center">Welcome to my profile! I'm a Front-End Software Engineer, I primarily work with Next.JS & Tailwindcss and I have over 4 years of web-developing experience.<br></p>
+<p align="center">Welcome to my profile! I'm a Full Stack Developer building various websites and FiveM servers<br></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DemonasLT&label=Profile%20views&color=0e75b6&style=flat" alt="DemonasLT" /> </p>
  
  · I'm currently working on my a lot of random projects and a website to store them all.<br>
