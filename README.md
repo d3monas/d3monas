@@ -20,8 +20,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
           
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=d3monas&theme=dark" alt="GitHub Streak" /></a>
-          [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3monas&theme=dark)](https://git.io/streak-stats)
-![Metrics](https://metrics.lecoq.io/d3monas)
 </p>
 
 
