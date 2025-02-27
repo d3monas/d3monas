@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
           
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=d3monas&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=d3monas&theme=dark" alt="GitHub Streak" /></a>
 
 </p>
 
